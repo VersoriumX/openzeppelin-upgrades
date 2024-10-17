@@ -23,8 +23,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.5",
     "@nomicfoundation/hardhat-verify": "^2.0.0",
-    "@openzeppelin/contracts": "5.0.1",
-    "@openzeppelin/contracts-upgradeable": "5.0.1",
+    "@openzeppelin/contracts": "5.0.2",
+    "@openzeppelin/contracts-upgradeable": "5.0.2",
     "@types/mocha": "^7.0.2",
     "ava": "^5.0.0",
     "fgbg": "^0.1.4",
@@ -44,7 +44,7 @@
     "debug": "^4.1.1",
     "ethereumjs-util": "^7.1.5",
     "proper-lockfile": "^4.1.1",
-    "undici": "^5.28.2"
+    "undici": "^6.20.0"
   },
   "peerDependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.0",
